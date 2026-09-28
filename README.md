@@ -1,2 +1,40 @@
 # Password-Generator-GUI-
-A Python + PyQt6 desktop application that generates secure, customizable passwords based on user-selected criteria.
+
+
+𝙈𝙧. 𝙎𝙖𝙛𝙚 🔐 — 𝙋𝙖𝙨𝙨𝙬𝙤𝙧𝙙 𝙂𝙚𝙣𝙚𝙧𝙖𝙩𝙤𝙧
+Mr.Safe :-
+"Safe Passwords Safe Life "
+
+✴️𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨✨
+
+  ▪️🔠 𝗨𝗽𝗽𝗲𝗿𝗰𝗮𝘀𝗲 & 𝗟𝗼𝘄𝗲𝗿𝗰𝗮𝘀𝗲
+  
+  ▪️🔢 𝗡𝘂𝗺𝗯𝗲𝗿𝘀
+  
+  ▪️🔣 𝗦𝘆𝗺𝗯𝗼𝗹𝘀
+  
+  ▪️🎲 𝗥𝗮𝗻𝗱𝗼𝗺 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻
+  
+  ▪️📋 𝗢𝗻𝗲-𝗖𝗹𝗶𝗰𝗸 𝗖𝗼𝗽𝘆
+  
+  ▪️🔄 𝗜𝗻𝘀𝘁𝗮𝗻𝘁 𝗥𝗲𝗴𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻
+  
+  ▪️✅ 𝗜𝗻𝗽𝘂𝘁 𝗩𝗮𝗹𝗶𝗱𝗮𝘁𝗶𝗼𝗻
+  
+  ▪️🌙 𝗗𝗮𝗿𝗸 𝗖𝘆𝗯𝗲𝗿 𝗚𝗨𝗜
+
+🛠️ Technologies:-
+
+  ▪️⚙️ 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠 
+  
+  ▪️🐍 𝗣𝘆𝘁𝗵𝗼𝗻
+  
+  ▪️🎨 𝗣𝘆𝗤𝘁𝟲
+  
+  ▪️🎲 𝗥𝗮𝗻𝗱𝗼𝗺
+  
+  ▪️🔤 𝗦𝘁𝗿𝗶𝗻𝗴
+  
+  ▪️⏱️ 𝗤𝗧𝗶𝗺𝗲𝗿
+  
+  ▪️🚀 𝗕𝘂𝗶𝗹𝗱. 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲. 𝗦𝘁𝗮𝘆 𝗦𝗮𝗳𝗲.
